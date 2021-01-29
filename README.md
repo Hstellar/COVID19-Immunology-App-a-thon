@@ -1,6 +1,6 @@
 # COVID19-Immunology-App-a-thon
 This repository contains results of competition by PrecisionFDA on 'COVID-19 Precision Immunology App-a-thon'<br>
-Work was done in team by: Priya Bharathi Kandanala, Miracle Rindani, Hena Ghonia<br>
+Work was done in team DS_CliqueprecisionFDA_team_submission_1. Team members: Priya Bharathi Kandanala, Miracle Rindani, Hena Ghonia<br>
 
 #### Details for installation required:
 Install anaconda : https://docs.anaconda.com/anaconda/install/<br>
